@@ -1,7 +1,6 @@
 # Land Use/Land Cover (LULC) Transition Visualization Script
 
-https://github.com/user-attachments/assets/de85db55-def2-430f-9102-e27f9396db84
-
+![image](https://github.com/user-attachments/assets/99331d6f-5263-4ad1-92a7-6704ce7cfacb)
 
 ## Description
 This Python script generates interactive Sankey diagrams to visualize land use/land cover (LULC) transitions between 2000 and 2022 for different forest patches. The script processes spatial transition data and produces publication-quality vector graphics (SVG format).
