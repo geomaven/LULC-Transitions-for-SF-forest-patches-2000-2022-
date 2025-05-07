@@ -1,6 +1,6 @@
 # Land Use/Land Cover (LULC) Transition Visualization Script
 
-![Example Sankey Diagram](![image](https://github.com/user-attachments/assets/de85db55-def2-430f-9102-e27f9396db84)
+https://github.com/user-attachments/assets/de85db55-def2-430f-9102-e27f9396db84
 
 
 ## Description
